@@ -1,0 +1,5 @@
+# Ignorar o ambiente virtual
+.venv/
+
+# Ignorar o diretório gerado pelo MkDocs
+/site/
