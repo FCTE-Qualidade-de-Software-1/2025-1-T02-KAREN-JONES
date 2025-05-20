@@ -1,1 +1,37 @@
-site_name: My Docs
+site_name: AgroMart
+repo_url: https://github.com/Requisitos-de-Software/2025-1-T02-KAREN-JONES
+repo_name: 2025-1-T02-KAREN-JONES
+docs_dir: docs
+
+theme:
+  name: material
+  logo: assets/Logo_agro.png
+  font:
+    text: Montserrat
+  icon:
+    repo: fontawesome/brands/git-alt
+  palette:
+    - scheme: default
+      primary: green
+      accent: light green
+      toggle:
+        icon: material/weather-night
+        name: Mudar para modo escuro
+    - scheme: slate
+      primary: green
+      accent: green
+      toggle:
+        icon: material/weather-sunny
+        name: Mudar para modo claro
+  features:
+    - content.code.annotate
+    - content.tabs.link
+    - header.autohide
+    - navigation.instant
+    - navigation.tabs
+    - navigation.top
+    - navigation.tracking
+    - navigation.path
+
+nav:
+  - Home: index.md
