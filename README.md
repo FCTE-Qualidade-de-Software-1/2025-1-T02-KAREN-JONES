@@ -37,26 +37,38 @@ Segue os nomes dos integrantes da equipe abaixo:
   <tr>
     <td align="center">
       <a href="https://github.com/MateuSansete">
-        <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/164573233?v=4" width="100px;" alt=""/>
+        <img src="https://avatars.githubusercontent.com/u/164573233?v=4" width="100px" style="border-radius: 50%;" alt="Mateus Bastos"/>
         <br /><sub><b>Mateus Bastos</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/rafa-kenji">
-        <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/79025349?v=4" width="100px;" alt=""/>
+        <img src="https://avatars.githubusercontent.com/u/79025349?v=4" width="100px" style="border-radius: 50%;" alt="Rafael Kenji"/>
         <br /><sub><b>Rafael Kenji</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/rmatuda">
-        <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/134009750?v=4" width="100px;" alt=""/>
+        <img src="https://avatars.githubusercontent.com/u/134009750?v=4" width="100px" style="border-radius: 50%;" alt="Rodrigo Matuda"/>
         <br /><sub><b>Rodrigo Matuda</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/catlenc">
-        <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/99406424?v=4" width="100px;" alt=""/>
+        <img src="https://avatars.githubusercontent.com/u/99406424?v=4" width="100px" style="border-radius: 50%;" alt="Catarina Lencina"/>
         <br /><sub><b>Catarina Lencina</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/LuizaMaluf">
+        <img src="https://avatars.githubusercontent.com/u/117913962?v=4" width="100px" style="border-radius: 50%;" alt="Luiza Maluf"/>
+        <br /><sub><b>Luiza Maluf</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Juhvitoria4">
+        <img src="https://avatars.githubusercontent.com/u/115602385?v=4" width="100px" style="border-radius: 50%;" alt="Juliana Vitória"/>
+        <br /><sub><b>Juliana Vitória</b></sub>
       </a>
     </td>
   </tr>
