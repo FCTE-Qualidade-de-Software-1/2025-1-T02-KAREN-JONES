@@ -13,7 +13,7 @@
 
 <div align="center">
   <p style="text-align: center; margin-bottom: 50px;">
-    <b>Fonte: <a href="#">Fonte da imagem (a definir)</a>, 2025</b>
+    <b>Fonte: <a href="#">[Agromart](https://www.agromart.com.br/)</a>, 2025</b>
   </p>
 </div>
 
