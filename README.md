@@ -25,7 +25,7 @@ O objetivo central é avaliar aspectos de qualidade do sistema **Agromart**, pro
 
 ## Documentação
 
-Acesse a documentação completa do projeto: [Clique Aqui]([https://requisitos-de-software.github.io/2025.1-Agromart/](https://fcte-qualidade-de-software-1.github.io/2025-1-T02-KAREN-JONES/)) <!-- Atualize o link real quando disponível -->
+Acesse a documentação completa do projeto: [Clique Aqui]([https://requisitos-de-software.github.io/2025.1-Agromart/](https://fcte-qualidade-de-software-1.github.io/2025-1-T02-KAREN-JONES/) <!-- Atualize o link real quando disponível -->
 
 ## Equipe
 
