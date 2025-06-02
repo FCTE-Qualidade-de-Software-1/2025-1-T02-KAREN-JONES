@@ -50,7 +50,7 @@ Segue os nomes dos integrantes da equipe abaixo:
     <td align="center">
       <a href="https://github.com/rmatuda">
         <img src="https://avatars.githubusercontent.com/u/134009750?v=4" width="100px" style="border-radius: 50%;" alt="Rodrigo Matuda"/>
-        <br /><sub><b>Rodrigo Matuda</b></sub>
+        <br /><sub><b>Rafael Matuda</b></sub>
       </a>
     </td>
     <td align="center">
