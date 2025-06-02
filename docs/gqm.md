@@ -75,7 +75,7 @@
 |-------------|------------------------------------------------------------------|------------------|
 | 211062240   | [Mateus Bastos dos Santos](https://github.com/mateusbastosds)   | 50              |
 | 190044128   | [Rafael Kenji Taira](https://github.com/rafa-kenji)             | 12.5     |
-| 222006383           | [Rodrigo Matuda](https://github.com/rmatuda)                    | 12.5              |
+| 222006383           | [Rafael Matuda](https://github.com/rmatuda)                    | 12.5              |
 | 211031664   | [Catlen Cleane](https://github.com/catlenc)                     | 12.5           |
 | 221008294   | [Luiza Maluf](https://github.com/LuizaMaluf)                    |     12.5          |
 
