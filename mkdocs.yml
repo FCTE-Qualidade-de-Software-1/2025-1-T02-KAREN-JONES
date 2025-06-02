@@ -35,3 +35,4 @@ theme:
 
 nav:
   - Home: index.md
+  - GQM: gqm.md
