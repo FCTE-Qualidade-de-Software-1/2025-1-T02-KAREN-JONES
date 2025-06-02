@@ -49,7 +49,7 @@
 <font size="3"><p style="text-align: center"><b>Figura 1</b> - GQM </p></font>
 
 
-![GQM](../../assets/diagrama-gqm.png)
+![GQM](./assets/diagrama-gqm.png)
 
 <font size="3"><p style="text-align: center"></p></font>
 
@@ -63,7 +63,7 @@
 <font size="3"><p style="text-align: center"><b>Figura 2</b> -Abstraction Sheets  </p></font>
 
 
-![GQM](../../assets/sheets.jpg)
+![GQM](./assets/sheets.jpg)
 
 <font size="3"><p style="text-align: center"></p></font>
 
