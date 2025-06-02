@@ -56,19 +56,13 @@ Segue os nomes dos integrantes da equipe abaixo:
     <td align="center">
       <a href="https://github.com/catlenc">
         <img src="https://avatars.githubusercontent.com/u/99406424?v=4" width="100px" style="border-radius: 50%;" alt="Catarina Lencina"/>
-        <br /><sub><b>Catarina Lencina</b></sub>
+        <br /><sub><b>Catlen Cleane</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/LuizaMaluf">
         <img src="https://avatars.githubusercontent.com/u/117913962?v=4" width="100px" style="border-radius: 50%;" alt="Luiza Maluf"/>
         <br /><sub><b>Luiza Maluf</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Juhvitoria4">
-        <img src="https://avatars.githubusercontent.com/u/115602385?v=4" width="100px" style="border-radius: 50%;" alt="Juliana Vitória"/>
-        <br /><sub><b>Juliana Vitória</b></sub>
       </a>
     </td>
   </tr>
