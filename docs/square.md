@@ -120,5 +120,5 @@ Esse estudo destaca a importância da confiabilidade no desenvolvimento de softw
 
 | Versão | Data de Produção | Descrição da Alteração         | Autor(es)                              | Revisor(es)                          | Data de Revisão |
 |:------:|:----------------:|:------------------------------|:-------------------------------------|:-----------------------------------|:--------------:|
-| 1.2    | 02/06/2025       | Adição da aba Square           | [Luiza Maluf](https://github.com/LuizaMaluf)                  | [Mateus Bastos dos Santos](https://github.com/mateusbastosds) | 03/06/2025     |
-| 1.3    | 02/06/2025       | Adição de link do PDF do Square | [Mateus Bastos dos Santos](https://github.com/mateusbastosds) | [Luiza Maluf](https://github.com/LuizaMaluf)                  | 03/06/2025     |
+| 1.2    | 02/06/2025       | Adição da aba Square           | [Luiza Maluf](https://github.com/LuizaMaluf)                  | [Mateus Bastos](https://github.com/MateuSansete) | 02/06/2025     |
+| 1.3    | 02/06/2025       | Adição de link do PDF do Square | [Mateus Bastos](https://github.com/MateuSansete) | [Luiza Maluf](https://github.com/LuizaMaluf)                  | 03/06/2025     |

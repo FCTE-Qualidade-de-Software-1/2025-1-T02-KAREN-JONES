@@ -78,6 +78,9 @@ foco na qualidade, baseline, fatores de variação e impactos.
 
 ---
 
+> <a name="ref2">  </a> **GQM PDF**. Versão 1.0. - Autor: [Mateus Bastos](https://github.com/MateuSansete).  
+[Visualizar PDF](./assets/pdf/gqm.pdf)
+---
 <br>
 
 ## Tabela de contribuição:
