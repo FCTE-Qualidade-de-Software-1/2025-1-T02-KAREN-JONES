@@ -35,4 +35,5 @@ theme:
 
 nav:
   - Home: index.md
+  - SQuaRE: square.md
   - GQM: gqm.md
