@@ -13,7 +13,7 @@ A norma ISO/IEC 25010 faz parte da família SQuaRE e define um modelo de qualida
 
 ## __Aspectos da qualidade e ênfase__
 
-|Aspecto da Qualidade | Ênfase (1 a 5) | Justificativa |
+|Aspecto da Qualidade | Ênfase <br> (1 a 5) | Justificativa |
 | ----- | ------- | --------|
 | Funcionalidade | 5 | Principal foco da avaliação: garantir que o sistema cumpra com seus objetivos e funcionalidades básicas sem erros. | 
 | Confiabilidade | 4 | O sistema deve manter estabilidade e resistência a falhas durante o uso comum. |  
@@ -21,6 +21,9 @@ A norma ISO/IEC 25010 faz parte da família SQuaRE e define um modelo de qualida
 | Eficiência | 3 | Deseja-se que o sistema responda de forma razoavelmente rápida, mesmo com vários acessos simultâneos. |
 | Portabilidade | 2 | Embora relevante, não é prioridade testar em muitos ambientes ou dispositivos, pois a versão web é o foco. | 
 | Completitude | 2 | A cobertura total dos requisitos não é o principal objetivo neste momento da avaliação. | 
+
+
+
 
 
 ## __Confiabilidade__
@@ -93,13 +96,29 @@ A validação desses atributos foi feita com o algoritmo Locally Weighted Learni
 Esse estudo destaca a importância da confiabilidade no desenvolvimento de softwares voltados para a educação, pois a disponibilidade contínua e a precisão dos dados são fundamentais para garantir uma boa experiência de aprendizado. O caso reforça a relevância das métricas descritas na ISO 25010 para medir e assegurar a qualidade de um sistema, especialmente no contexto de plataformas educacionais, onde interrupções ou falhas podem comprometer o ensino e a retenção do conhecimento.
 
 ---
+> <a name="ref2">  </a> **SLIDES SQUARE**. Versão 1.0. - Autor: [Mateus Bastos](https://github.com/MateuSansete).  
+[Visualizar PDF](./assets/pdf/square-slides.pdf)
 
-<center>
+
+
+---
+
+
+## Tabela de contribuição:
 
 | Matrícula   | Nome Completo                                                   | Contribuição (%) |
 |-------------|------------------------------------------------------------------|-----------------|
-| 211062240   | [Mateus Bastos dos Santos](https://github.com/mateusbastosds)   | 10               |
-| 190044128   | [Rafael Kenji Taira](https://github.com/rafa-kenji)             | 30               |
-| 222006383   | [Rafael Matuda](https://github.com/rmatuda)                     | 16               |
-| 211031664   | [Catlen Cleane](https://github.com/catlenc)                     | 12               |
+| 211062240   | [Mateus Bastos](https://github.com/MateuSansete)                 | 20               |
+| 190044128   | [Rafael Kenji Taira](https://github.com/rafa-kenji)             | 28              |
+| 222006383   | [Rafael Matuda](https://github.com/rmatuda)                     | 18               |
+| 211031664   | [Catlen Cleane](https://github.com/catlenc)                     | 14               |
 | 221008294   | [Luiza Maluf](https://github.com/LuizaMaluf)                    | 20               |  
+
+---
+
+### Histórico de Versões
+
+| Versão | Data de Produção | Descrição da Alteração         | Autor(es)                              | Revisor(es)                          | Data de Revisão |
+|:------:|:----------------:|:------------------------------|:-------------------------------------|:-----------------------------------|:--------------:|
+| 1.2    | 02/06/2025       | Adição da aba Square           | [Luiza Maluf](https://github.com/LuizaMaluf)                  | [Mateus Bastos dos Santos](https://github.com/mateusbastosds) | 03/06/2025     |
+| 1.3    | 02/06/2025       | Adição de link do PDF do Square | [Mateus Bastos dos Santos](https://github.com/mateusbastosds) | [Luiza Maluf](https://github.com/LuizaMaluf)                  | 03/06/2025     |
