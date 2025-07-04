@@ -82,3 +82,10 @@
 | Cobertura de testes (%)          | > 90%     | 70%–90%   | < 70%    |
 
 </center>
+
+---
+## Histórico de versão
+
+| Versão | Descrição | Responsável |
+|--------|-----------|-------------|
+| `1.0`  | Documentação do planejamento | [Luiza Maluf] | 
