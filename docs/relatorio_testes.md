@@ -64,10 +64,10 @@ Encontrar vulnerabilidades no código e na lógica da aplicação.
 
 Abaixo estão dois exemplos dos problemas mais críticos identificados durante os testes de segurança da API:
 
-![exemplo 1](./assets/testes/figura_7.png)
+![exemplo 1](./assets/testes/figura7.png)
 
 
-![exemplo 2](./assets/testes/figura_8.png)
+![exemplo 2](./assets/testes/figura8.png)
 
 ### Resumo de Análise de Qualidade e Segurança – Agromart API
 
