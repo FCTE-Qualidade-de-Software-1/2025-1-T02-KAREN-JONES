@@ -16,8 +16,6 @@
 
 ## 3. Responsáveis
 
-<center> 
-
 | Tarefas | Responsável | 
 | ------- | ----------- |
 | Testes funcionais e automatizados | [Mateus Bastos] |
@@ -26,11 +24,7 @@
 | Coleta de dados de segurança     | [Catlen Cleane] |
 | Organização dos dados            | [Luiza Maluf]  |
 
-</center>
-
 ## 4. Cronograma
-
-<center>
 
 | Atividade                            | Data Limite | Responsável       |
 |--------------------------------------|-------------|-------------------|
@@ -39,8 +33,6 @@
 | Coleta de métricas de segurança      | 05/07       | [Catlen Cleane]   |
 | Testes de performance e eficiência   | 06/07       | [Rafael Matuda]   |
 | Consolidação dos dados da avaliação  | 07/07       | [Luiza Maluf]     |
-
-</center>
 
 # 5. Ferramentas Utilizadas
 
@@ -60,8 +52,6 @@
 
 ## 7. Mapeamento Objetivo-Métrica
 
-<center>
-
 | Objetivo Estratégico                               | Métrica Avaliada                              |
 |----------------------------------------------------|-----------------------------------------------|
 | __Garantir robustez e qualidade do sistema__           | Nº de falhas críticas por semana              |
@@ -69,19 +59,15 @@
 | __Aumentar a segurança da plataforma__                 | Presença de criptografia e autenticação forte |
 | __Promover inovação e adaptabilidade__                 | Nº de funcionalidades novas via feedback     |
 
-</center>
 
-## 9. Critérios de Aceitação
 
-<center>
+## 8. Critérios de Aceitação
 
 | Métrica                           | Excelente | Aceitável | Ruim     |
 |----------------------------------|-----------|-----------|----------|
 | Tempo de resposta (ms)           | < 500     | 500–1000  | > 1000   |
 | Taxa de falhas críticas (%)      | < 1%      | 1%–3%     | > 3%     |
 | Cobertura de testes (%)          | > 90%     | 70%–90%   | < 70%    |
-
-</center>
 
 ---
 ## Histórico de versão
