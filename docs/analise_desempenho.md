@@ -1,6 +1,6 @@
 ## Relatório de Análise de Dados e Melhoria - Projeto AgroMart
 
-### 1. Planilha Estruturada de Dados
+## 1. Planilha Estruturada de Dados
 
 Abaixo está a consolidação dos dados extraídos dos relatórios em um formato de planilha. Os critérios de classificação foram definidos com base nas informações e implicações observadas nos relatórios, priorizando segurança > usabilidade > desempenho.
 
@@ -32,26 +32,37 @@ Abaixo está a consolidação dos dados extraídos dos relatórios em um formato
 | Responsividade da Barra Lateral (Web) | Não é responsiva em tela não cheia | Ruim | Pessoa 2 | Excelente: Totalmente responsiva \| Aceitável: Pequenos ajustes necessários \| Ruim: Prejudica a usabilidade em diferentes tamanhos de tela |
 | Botão de Notificação (Web) | Não resulta em nada ao clicar | Ruim | Pessoa 2 | Excelente: Funcionalidade operante \| Ruim: Não funciona |
 
-### 2. Análise dos Resultados e Priorização da Melhoria
+## 2. Análise dos Resultados e Priorização da Melhoria
 
-Com base na tabela e nos critérios de priorização (segurança > usabilidade > desempenho), identifiquei que a melhoria mais urgente é a **falha crítica nos testes automatizados do backend** e a **ausência de testes automatizados no frontend**. Embora existam problemas de usabilidade impactantes, a base de testes inoperante ou inexistente representa um risco significativo para a sustentabilidade e a introdução de novas funcionalidades no futuro. A falta de testes automatizados de backend, com 44 falhas devido a problemas de infraestrutura (banco de dados de teste e autenticação), e a completa ausência de testes no frontend, indicam uma lacuna fundamental no processo de desenvolvimento que pode levar a regressões e falhas não detectadas, impactando indiretamente tanto a segurança quanto a usabilidade.
+Com base na tabela e nos critérios de priorização (segurança > usabilidade > desempenho), identifiquei que a melhoria mais urgente é a **falha crítica nos testes automatizados do backend** e a **ausência de testes automatizados no frontend**. 
+
+Embora existam problemas de usabilidade impactantes, a base de testes inoperante ou inexistente representa um risco significativo para a sustentabilidade e a introdução de novas funcionalidades no futuro.
+
+ A falta de testes automatizados de backend, com 44 falhas devido a problemas de infraestrutura (banco de dados de teste e autenticação), e a completa ausência de testes no frontend, indicam uma lacuna fundamental no processo de desenvolvimento que pode levar a regressões e falhas não detectadas, impactando indiretamente tanto a segurança quanto a usabilidade.
 
 **Métrica Prioritária:** Testes Automatizados (Backend e Frontend) - Classificação: Ruim.
 
-**Justificativa:** A ausência ou falha generalizada dos testes automatizados impacta diretamente a **confiabilidade** e a **segurança** do sistema a longo prazo. Sem testes robustos, qualquer alteração no código pode introduzir novos bugs ou vulnerabilidades sem que sejam detectados rapidamente, comprometendo a estabilidade da aplicação e a experiência do usuário. As falhas nos testes de backend são de infraestrutura (banco de dados e JWT), o que impede a validação de qualquer funcionalidade, e a ausência de testes no frontend significa que a interface do usuário não tem garantia de funcionamento, o que pode levar a problemas de usabilidade não identificados antes do deploy.
+**Justificativa:** A ausência ou falha generalizada dos testes automatizados impacta diretamente a **confiabilidade** e a **segurança** do sistema a longo prazo. Sem testes robustos, qualquer alteração no código pode introduzir novos bugs ou vulnerabilidades sem que sejam detectados rapidamente, comprometendo a estabilidade da aplicação e a experiência do usuário.
 
-### 3. Plano de Ação para Implementação da Melhoria
+ As falhas nos testes de backend são de infraestrutura (banco de dados e JWT), o que impede a validação de qualquer funcionalidade, e a ausência de testes no frontend significa que a interface do usuário não tem garantia de funcionamento, o que pode levar a problemas de usabilidade não identificados antes do deploy.
+
+## 3. Plano de Ação para Implementação da Melhoria
 
 **Métrica Escolhida:** Correção e Implementação de Testes Automatizados (Backend e Frontend).
 
 **Solução Proposta:**
 1.  **Backend:** Corrigir a infraestrutura dos testes automatizados (configuração do banco de dados de teste e inicialização do JWT) e garantir que todos os 44 testes falhos sejam corrigidos e passem.
+
 2.  **Frontend:** Implementar testes unitários e de integração para garantir a cobertura de código e a regressão segura da interface web.
 
 **Ferramentas:**
 * **Backend:** `sudo u postgres createdb tobemodified-test` (para o banco de dados), Jest/Supertest (framework de testes), Postman (para validação manual de endpoints da API após a correção).
+
 * **Frontend:** Jest/React Testing Library (framework de testes e utilitários), Cypress/Playwright (para testes de integração/E2E, se aplicável).
+
 * **Controle de Versão:** GitHub (para revisão de código e gerenciamento de tarefas).
+
+<br>
 
 **Passos Detalhados:**
 
@@ -94,5 +105,4 @@ Com base na tabela e nos critérios de priorização (segurança > usabilidade >
 
 | Versão | Data de Produção | Descrição da Alteração | Autor(es) | Revisor(es) | Data de Revisão |
 |:------:|:----------------:|:----------------------:|:---------:|:-----------:|:--------------:|
-| 1.0    | 06/07/2025       |Desenvolvimento de Relatorio de análise de desempenho |  [Rafael Matuda](https://github.com/rmatuda) |||
----
+| 1.0    | 06/07/2025       |Desenvolvimento de Relatorio de análise de desempenho |  [Rafael Matuda](https://github.com/rmatuda) |[Mateus Bastos](https://github.com/MateuSansete)| 08/07/2025|

@@ -91,4 +91,4 @@
 
 | Versão | Data de Produção | Descrição da Alteração | Autor(es) | Revisor(es) | Data de Revisão |
 |:------:|:----------------:|:----------------------:|:---------:|:-----------:|:--------------:|
-| 1.0    | 06/07/2025       |Desenvolvimento de Relatorio da Usabilidade |  [Rafael Kenji](https://github.com/rafa-kenji) |||
+| 1.0    | 06/07/2025       |Desenvolvimento de Relatorio da Usabilidade |  [Rafael Kenji](https://github.com/rafa-kenji) |[Mateus Bastos](https://github.com/MateuSansete), [Rafael Kenji](https://github.com/rafa-kenji)| 08/07/2025|
