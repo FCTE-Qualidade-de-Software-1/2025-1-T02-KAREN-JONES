@@ -369,8 +369,8 @@ A execução dos testes automatizados do backend resultou em falha total: **44 t
 ### 5.2.1 Banco de Dados de Teste
 
 - **Erro:**  
-  ```bash
-  error: database "tobemodified-test" does not exist
+  ```
+   database "tobemodified-test" does not exist
   ```
 
 
@@ -378,6 +378,6 @@ A execução dos testes automatizados do backend resultou em falha total: **44 t
 
 | Versão | Data de Produção | Descrição da Alteração | Autor(es) | Revisor(es) | Data de Revisão |
 |:------:|:----------------:|:----------------------:|:---------:|:-----------:|:--------------:|
-| 1.0    | 06/07/2025       |Desenvolvimento de Relatorio dos testes |  [Catlen Cleane](https://github.com) |||
+| 1.0    | 06/07/2025       |Desenvolvimento de Relatorio dos testes |  [Catlen Cleane](https://github.com) |[Mateus Bastos](https://github.com/MateuSansete)| 08/07/2025|
 
 

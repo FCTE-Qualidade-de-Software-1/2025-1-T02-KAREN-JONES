@@ -96,4 +96,4 @@ Versão 1.0. <br> **Autores**: [Mateus Bastos](https://github.com/MateuSansete),
 
 | Versão | Data de Produção | Descrição da Alteração | Autor(es) | Revisor(es) | Data de Revisão |
 |:------:|:----------------:|:----------------------:|:---------:|:-----------:|:--------------:|
-| 1.0    | 11/06/2025       | Desenvolvimento da aba Análise da Efetividade | [Mateus Bastos](https://github.com/MateuSansete), [Catlen Cleane](https://github.com/catlenc),  | [Luiza Maluf](https://github.com/LuizaMaluf) , [Rafael Matuda](https://github.com/rmatuda), [Rafael Kenji Taira](https://github.com/rafa-kenji)| 01/06/2025 |
+| 1.0    | 11/06/2025       | Desenvolvimento da aba Análise da Efetividade | [Mateus Bastos](https://github.com/MateuSansete), [Catlen Cleane](https://github.com/catlenc),  | [Luiza Maluf](https://github.com/LuizaMaluf) , [Rafael Matuda](https://github.com/rmatuda), [Rafael Kenji Taira](https://github.com/rafa-kenji), [Mateus Bastos](https://github.com/MateuSansete)| 08/07/2025 |
