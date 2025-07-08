@@ -35,11 +35,14 @@ theme:
 
 nav:
   - Home: index.md
-  - SQuaRE: square.md
-  - GQM: gqm.md
-  - Análise da Efetividade de processos: Analise.md
-  - Plano de Avaliação: plano_avaliacao.md
-  - Relatório de Testes: relatorio_testes.md
-  - Relatório de Análise de Dados e Melhoria: analise_desempenho.md
-  - Relatório de Performance e Eficiência: Relatório de Performance e Eficiência.md
-  - Relatório de Usabilidade: avaliacao_Usabilidade.md
+  - Fase 3:  
+    - Plano de Avaliação: plano_avaliacao.md
+  - Fase 4:
+    - Relatório de Testes: relatorio_testes.md
+    - Relatório de Análise de Dados e Melhoria: analise_desempenho.md
+    - Relatório de Performance e Eficiência: Relatório de Performance e Eficiência.md
+    - Relatório de Usabilidade: avaliacao_Usabilidade.md
+  - Outras Entregas:
+      - SQuaRE: square.md
+      - GQM: gqm.md
+      - Análise da Efetividade de processos: Analise.md
