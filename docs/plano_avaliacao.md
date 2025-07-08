@@ -18,21 +18,21 @@
 
 | Tarefas | Responsável | 
 | ------- | ----------- |
-| Testes funcionais e automatizados | [Mateus Bastos] |
-| Avaliação de usabilidade | [Rafael Kenji] | 
-| Análise de desempenho            | [Rafael Matuda]  |
-| Coleta de dados de segurança     | [Catlen Cleane] |
-| Organização dos dados            | [Luiza Maluf]  |
+| Testes funcionais e automatizados | [Mateus Bastos](https://github.com/MateuSansete) |
+| Avaliação de usabilidade | [Rafael Kenji](https://github.com/rafa-kenji) | 
+| Análise de desempenho            | [Rafael Matuda](https://github.com/rmatuda)  |
+| Coleta de dados de segurança     | [Catlen Cleane](https://github.com/catlenc) |
+| Organização dos dados            | [Luiza Maluf](https://github.com/LuizaMaluf)  |
 
 ## 4. Cronograma
 
 | Atividade                            | Data Limite | Responsável       |
 |--------------------------------------|-------------|-------------------|
-| Execução dos testes                  | 03/07       | [Mateus Bastos]   |
-| Avaliação de usabilidade             | 04/07       | [Rafael Kenji]    |
-| Coleta de métricas de segurança      | 05/07       | [Catlen Cleane]   |
-| Testes de performance e eficiência   | 06/07       | [Rafael Matuda]   |
-| Consolidação dos dados da avaliação  | 07/07       | [Luiza Maluf]     |
+| Execução dos testes                  | 03/07       | [Mateus Bastos](https://github.com/MateuSansete)   |
+| Avaliação de usabilidade             | 04/07       | [Rafael Kenji](https://github.com/rafa-kenji)    |
+| Coleta de métricas de segurança      | 05/07       | [Catlen Cleane](https://github.com/catlenc)   |
+| Testes de performance e eficiência   | 06/07       | [Rafael Matuda](https://github.com/rmatuda)   |
+| Consolidação dos dados da avaliação  | 07/07       | [Luiza Maluf](https://github.com/LuizaMaluf)     |
 
 # 5. Ferramentas Utilizadas
 
@@ -84,5 +84,5 @@
 
 | Versão | Descrição | Responsável |
 |--------|-----------|-------------|
-| `1.0`  | Documentação do planejamento | [Luiza Maluf] | 
-| `1.1`  | Atualização do planejamento | [Rafael Kenji] |
+| `1.0`  | Documentação do planejamento | [Luiza Maluf](https://github.com/LuizaMaluf) | [Mateus Bastos](https://github.com/MateuSansete)|
+| `1.1`  | Atualização do planejamento | [Rafael Kenji](https://github.com/rafa-kenji) | [Mateus Bastos](https://github.com/MateuSansete)|

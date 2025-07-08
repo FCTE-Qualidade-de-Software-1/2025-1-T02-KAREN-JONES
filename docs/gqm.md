@@ -103,8 +103,8 @@ foco na qualidade, baseline, fatores de variação e impactos.
 
 | Versão | Data de Produção | Descrição da Alteração | Autor(es) | Revisor(es) | Data de Revisão |
 |:------:|:----------------:|:----------------------:|:---------:|:-----------:|:--------------:|
-| 1.0    | 01/06/2025       | Desenvolvimento da aba GQM | [Mateus Bastos](https://github.com/MateuSansete)  | [Catlen Cleane](https://github.com/catlenc), [Rafael Matuda](https://github.com/rmatuda)| 01/06/2025 |
-| 1.1    | 03/06/2025       | Adição de links para arquivos PDF no documento GQM | [Mateus Bastos](https://github.com/MateuSansete) | [Catlen Cleane](https://github.com/catlenc),[Rafael Matuda](https://github.com/rmatuda) | 03/06/2025 |
+| 1.0    | 01/06/2025       | Desenvolvimento da aba GQM | [Mateus Bastos](https://github.com/MateuSansete)  | [Catlen Cleane](https://github.com/catlenc), [Rafael Matuda](https://github.com/rmatuda), [Mateus Bastos](https://github.com/MateuSansete)| 01/06/2025 |
+| 1.1    | 03/06/2025       | Adição de links para arquivos PDF no documento GQM | [Mateus Bastos](https://github.com/MateuSansete) | [Catlen Cleane](https://github.com/catlenc),[Rafael Matuda](https://github.com/rmatuda), [Mateus Bastos](https://github.com/MateuSansete) | 03/06/2025 |
 
 
 

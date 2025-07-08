@@ -2,13 +2,15 @@
 
 ## 1.1 Contexto e Motivação
 
-O **AgroMart Web** é uma aplicação web desenvolvida para conectar pequenos produtores rurais a consumidores por meio de um sistema digital acessível, funcional e responsivo. Voltada para agricultores familiares que buscam autonomia na venda de seus produtos, a plataforma oferece funcionalidades como cadastro de loja, publicação de produtos e envio de notificações para clientes.
+O **AgroMart Web** é uma aplicação web desenvolvida para conectar pequenos produtores rurais a consumidores por meio de um sistema digital acessível, funcional e responsivo. 
 
-Dada a natureza do público-alvo — muitas vezes com baixa escolaridade digital, conectividade limitada e uso predominante de dispositivos móveis —, a **qualidade da experiência de uso** se torna um fator decisivo para o sucesso da solução. Garantir que os usuários consigam interagir com o sistema de forma eficaz, eficiente e satisfatória é essencial para promover a adoção e retenção da plataforma.
+Voltada para agricultores familiares que buscam autonomia na venda de seus produtos, a plataforma oferece funcionalidades como cadastro de loja, publicação de produtos e envio de notificações para clientes.
+
+Dada a natureza do público-alvo, muitas vezes com baixa escolaridade digital, conectividade limitada e uso predominante de dispositivos móveis, a **qualidade da experiência de uso** se torna um fator decisivo para o sucesso da solução. Garantir que os usuários consigam interagir com o sistema de forma eficaz, eficiente e satisfatória é essencial para promover a adoção e retenção da plataforma.
 
 ## 1.2 Declaração do Propósito
 
-> Avaliar a qualidade do sistema **AgroMart Web**, com foco especial em **usabilidade**, **performance** e **robustez**, a fim de diagnosticar falhas de interação, lentidão ou inconsistência no uso da plataforma, propondo ações concretas para melhoria contínua da experiência do usuário — principalmente agricultores familiares.
+> Avaliar a qualidade do sistema **AgroMart Web**, com foco especial em **usabilidade**, **performance** e **robustez**, a fim de diagnosticar falhas de interação, lentidão ou inconsistência no uso da plataforma, propondo ações concretas para melhoria contínua da experiência do usuário, principalmente agricultores familiares.
 
 ## 1.3 Objetivos Específicos
 
@@ -116,3 +118,8 @@ As funcionalidades abaixo são consideradas **tarefa crítica**, pois representa
 **Conclusão da Fase 1:**  
 Este plano estabelece os fundamentos conceituais e contextuais para a avaliação de qualidade do sistema AgroMart Web, considerando suas especificidades sociais, técnicas e funcionais. As decisões tomadas aqui embasam os critérios, métricas e execuções práticas das Fases 2 e 3.
 
+### Histórico de Versões
+
+| Versão | Data de Produção | Descrição da Alteração | Autor(es) | Revisor(es) | Data de Revisão |
+|:------:|:----------------:|:----------------------:|:---------:|:-----------:|:--------------:|
+| 1.0    | 06/07/2025       |Desenvolvimento de Relatorio de análise de desempenho |  [Mateus Bastos](https://github.com/MateuSansete) |[Rafael Kenji](https://github.com/rafa-kenji)| 08/07/2025|
