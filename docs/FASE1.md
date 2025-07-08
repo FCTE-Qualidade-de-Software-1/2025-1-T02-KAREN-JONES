@@ -118,8 +118,34 @@ As funcionalidades abaixo são consideradas **tarefa crítica**, pois representa
 **Conclusão da Fase 1:**  
 Este plano estabelece os fundamentos conceituais e contextuais para a avaliação de qualidade do sistema AgroMart Web, considerando suas especificidades sociais, técnicas e funcionais. As decisões tomadas aqui embasam os critérios, métricas e execuções práticas das Fases 2 e 3.
 
+
+
+
+
+---
+
+
+## Tabela de contribuição:
+
+| Matrícula   | Nome Completo                                                   | Contribuição (%) |
+|-------------|------------------------------------------------------------------|-----------------|
+| 211062240   | [Mateus Bastos](https://github.com/MateuSansete)                 | 50               |
+| 190044128   | [Rafael Kenji Taira](https://github.com/rafa-kenji)             | 20              |
+| 222006383   | [Rafael Matuda](https://github.com/rmatuda)                     | 10               |
+| 211031664   | [Catlen Cleane](https://github.com/catlenc)                     | 10               |
+| 221008294   | [Luiza Maluf](https://github.com/LuizaMaluf)                    | 10               |  
+
+
+
 ### Histórico de Versões
 
 | Versão | Data de Produção | Descrição da Alteração | Autor(es) | Revisor(es) | Data de Revisão |
 |:------:|:----------------:|:----------------------:|:---------:|:-----------:|:--------------:|
 | 1.0    | 06/07/2025       |Desenvolvimento de Relatorio de análise de desempenho |  [Mateus Bastos](https://github.com/MateuSansete) |[Rafael Kenji](https://github.com/rafa-kenji)| 08/07/2025|
+
+
+
+
+
+
+

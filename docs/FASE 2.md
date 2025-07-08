@@ -274,6 +274,20 @@ Com isso, separamos as métricas para a Performance e Usabilidade.
 
 ---
 
+
+
+
+## Tabela de contribuição:
+
+| Matrícula   | Nome Completo                                                   | Contribuição (%) |
+|-------------|------------------------------------------------------------------|-----------------|
+| 211062240   | [Mateus Bastos](https://github.com/MateuSansete)                 | 20               |
+| 190044128   | [Rafael Kenji Taira](https://github.com/rafa-kenji)             | 30              |
+| 222006383   | [Rafael Matuda](https://github.com/rmatuda)                     | 30               |
+| 211031664   | [Catlen Cleane](https://github.com/catlenc)                     | 10               |
+| 221008294   | [Luiza Maluf](https://github.com/LuizaMaluf)                    | 10               |  
+
+
 ### Histórico de Versões
 
 | Versão | Data de Produção | Descrição da Alteração | Autor(es) | Revisor(es) | Data de Revisão |
