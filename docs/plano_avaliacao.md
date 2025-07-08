@@ -2,17 +2,17 @@
 
 ## 1. Fonte dos Dados
 
-- Logs de erro do sistema
-- Resultado de testes automatizados e manuais
-- Ferramentas de análise estática de código
+- Logs de erro do sistema para as métricas de Performance
+- Resultado de testes automatizados e manuais para ambas métricas
+- Ferramentas de análise estática de código para as métricas de Performance
 - Ferramentas de análise de performance
 
 ## 2. Técnicas de Coleta
 
-- Execução de testes automatizados e inspeção de resultados
-- Testes manuais simulando fluxos de uso do consumidor e agricultor
-- Análise com ferramentas como Lighthouse e WebPageTest
-- Avaliação da interface a partir de critários heurísticos
+- Execução de testes automatizados e inspeção de resultados para as métricas de Performance
+- Testes manuais simulando fluxos de uso do consumidor e agricultor para as métricas de Usabilidade
+- Análise com ferramentas como Lighthouse e WebPageTest para as métricas de Performance
+- Avaliação da interface de acordo com a legibilidade em geral para as métricas de Usabilidade
 
 ## 3. Responsáveis
 
@@ -36,28 +36,38 @@
 
 # 5. Ferramentas Utilizadas
 
-- **Jest / Vitest** – para testes unitários e de integração
 - **Postman** – para testes de API
-- **Lighthouse / WebPageTest** – para avaliação de performance
-- **ESLint / SonarQube** – para inspeção de código
+- **Lighthouse / WebPageTest** – para avaliação de performance para as métricas de Performance
+- **ESLint / SonarQube** – para inspeção de código para as métricas de Performance
 - **GitHub Projects / Issues / Commits** – para registro das atividades e progresso
 
 ## 6. Forma de Documentação
 
-- Planilha de métricas (.ods/.xlsx)
+- Planilha de métricas (.ods/.xlsx) para as métricas de Usabilidade
 - Documentação em `docs/` no repositório GitHub
 - Slides com resumo da avaliação e gráficos de desempenho
-- Tabela de critérios + valores reais + julgamentos
+- Tabela de critérios + valores reais + julgamentos em todas as métricas
 - Proposta de ação de melhoria ancorada nos dados coletados
 
 ## 7. Mapeamento Objetivo-Métrica
 
-| Objetivo Estratégico                               | Métrica Avaliada                              |
-|----------------------------------------------------|-----------------------------------------------|
-| __Garantir robustez e qualidade do sistema__           | Nº de falhas críticas por semana              |
-|                                                    | % de funcionalidades implementadas com sucesso|
-| __Aumentar a segurança da plataforma__                 | Presença de criptografia e autenticação forte |
-| __Promover inovação e adaptabilidade__                 | Nº de funcionalidades novas via feedback     |
+| Objetivo Estratégico                                      | Métrica Avaliada                                                                 |
+|----------------------------------------------------------------------|----------------------------------------------------------------------------------|
+| **Assegurar desempenho eficiente e escalável da aplicação**          | - Tempo de resposta (ms)                                                         |
+|                                                                      | - Número médio de requisições por segundo (RPS)                                  |
+|                                                                      | - Latência média das requisições                                                 |
+|                                                                      | - Taxa de respostas 2xx vs não-2xx                                               |
+|                                                                      | - FCP, LCP, TBT (indicadores de performance front-end)                           |
+|                                                                      | - Gargalos de cache/JS e consumo de recursos                                     |
+| **Garantir experiência de uso acessível, responsiva e confiável**   | - M1 a M6 (visibilidade, feedback, responsividade, acessibilidade)               |
+|                                                                      | - Avaliação heurística e testes manuais                                          |
+| **Aumentar a confiabilidade e estabilidade do sistema sob demanda** | - Logs de erro                                                                    |
+|                                                                      | - Taxa de falhas críticas (%)                                                    |
+|                                                                      | - Taxa de respostas de erro (HTTP 4xx, 5xx)                                      |
+| **Fortalecer a qualidade estrutural do código**                      | - Relatórios do ESLint / SonarQube                                               |
+|                                                                      | - Identificação de erros lógicos e uso ineficiente de recursos                   |
+| **Aumentar a cobertura e efetividade dos testes**                    | - Cobertura de testes (%)                                                        |
+|                                                                      | - % de funcionalidades testadas com sucesso (via Jest / Vitest ou testes manuais)|
 
 
 
@@ -75,3 +85,4 @@
 | Versão | Descrição | Responsável |
 |--------|-----------|-------------|
 | `1.0`  | Documentação do planejamento | [Luiza Maluf] | 
+| `1.1`  | Atualização do planejamento | [Rafael Kenji] |
