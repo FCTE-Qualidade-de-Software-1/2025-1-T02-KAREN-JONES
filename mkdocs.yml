@@ -35,6 +35,7 @@ theme:
 
 nav:
   - Home: index.md
+  - Fase 2: FASE 2.md
   - Fase 3:  
     - Plano de Avaliação: plano_avaliacao.md
   - Fase 4:
