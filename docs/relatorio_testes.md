@@ -165,13 +165,13 @@ A seguir, apresentam-se as recomendações para melhorar a qualidade e seguranç
 ![Testes de Segurança e Qualidade de Código (SonarQube)](./assets/testes/figura_10.png)
 
 
-📅 **Data da Análise:** 05 de julho de 2025  
-📄 **Branch analisado:** `main`  
-✅ **Resultado da Qualidade:** *Passed* (Todos os critérios foram atendidos)
+**Data da Análise:** 05 de julho de 2025  
+**Branch analisado:** `main`  
+**Resultado da Qualidade:** *Passed* (Todos os critérios foram atendidos)
 
 ---
 
-## 📊 Resumo Geral
+## Resumo Geral
 
 | Métrica                 | Resultado         | Nota                     |
 |-------------------------|-------------------|--------------------------|
@@ -180,52 +180,52 @@ A seguir, apresentam-se as recomendações para melhorar a qualidade e seguranç
 | Hotspots de Segurança   | 0                 | A (Sem riscos críticos)  |
 | Débito Técnico          | 1h 17min          | A (Baixo impacto)        |
 | Code Smells             | 17                | A (Boa manutenibilidade) |
-| Cobertura de Testes     | 0% (0 testes)     | ⚠️ (Necessita melhoria)  |
+| Cobertura de Testes     | 0% (0 testes)     | (Necessita melhoria)  |
 | Linhas a cobrir         | 226               | —                        |
 | Duplicação de Código    | 2.9% em 1.500 l
 
-## 🔍 Análise por Categoria
+## Análise por Categoria
 
-### 🔧 Confiabilidade (Reliability)
+### Confiabilidade (Reliability)
 - **Bugs detectados:** 0  
 - **Nota:** A  
 - **Comentário:** O código analisado está livre de bugs reconhecidos, o que reflete um bom padrão de qualidade.
 
-### 🔒 Segurança (Security)
+### Segurança (Security)
 - **Vulnerabilidades:** 0  
 - **Security Hotspots:** 0 (nenhum ponto crítico pendente de revisão)  
 - **Nota:** A  
 - **Comentário:** Nenhuma falha de segurança foi identificada na análise. Excelente resultado para ambientes que exigem proteção de dados.
 
-### 🔁 Manutenibilidade (Maintainability)
+### Manutenibilidade (Maintainability)
 - **Code Smells:** 17  
 - **Débito Técnico:** 1 hora e 17 minutos  
 - **Nota:** A  
 - **Comentário:** O nível de “code smells” é muito baixo e o débito técnico estimado é mínimo, indicando facilidade de manutenção futura.
 
-### 🧪 Testes (Coverage)
+### Testes (Coverage)
 - **Cobertura:** 0% sobre 226 linhas de código  
 - **Unit Tests:** Não identificados  
 - **Comentário:** A ausência de cobertura de testes automatizados representa um ponto crítico a ser endereçado.  
   **Recomendação:** Implementar testes unitários e de integração.
 
-### 🔂 Duplicação de Código
+### Duplicação de Código
 - **Duplicação:** 2.9% (em 1.500 linhas)  
 - **Blocos Duplicados:** 2  
 - **Comentário:** O nível de duplicação está em um patamar considerado aceitável, mas pode ser otimizado com refatorações leves.
 
 ---
 
-## ✅ Conclusão
+## Conclusão
 
 O projeto **"agromart-web"** atende a todos os critérios de qualidade definidos na análise do **SonarQube**.  
 Com **nota A em Confiabilidade, Segurança e Manutenibilidade**, o código está bem estruturado e pronto para produção.
 
-> ⚠️ O principal ponto de atenção é a **ausência de testes automatizados**, o que pode impactar a confiabilidade em longo prazo.
+> O principal ponto de atenção é a **ausência de testes automatizados**, o que pode impactar a confiabilidade em longo prazo.
 
 ---
 
-## 🛠️ Recomendações
+## Recomendações
 
 1. **Implementar testes unitários e de integração** para aumentar a cobertura de código e garantir regressão segura.
 2. **Refatorar blocos duplicados**, mesmo que em baixa quantidade, para evitar problemas de manutenção futura.
@@ -243,7 +243,7 @@ Este teste tem como objetivo verificar se a aplicação web Agromart implementa 
   Acesso direto à URL `http://localhost:3000/dashboard` sem estar logado.
 
 - **Resultado obtido:**  
-  ✅ O sistema redirecionou automaticamente para `http://localhost:3000/login`.
+  O sistema redirecionou automaticamente para `http://localhost:3000/login`.
 
 - **Conclusão:**  
   Comportamento correto. A aplicação impede acesso direto a rotas protegidas sem autenticação.
@@ -264,8 +264,8 @@ Este teste tem como objetivo verificar se a aplicação web Agromart implementa 
 
 | Verificação                                 | Resultado |
 |---------------------------------------------|-----------|
-| Página carrega sem erros                    | ✅ Sim     |
-| Dados sensíveis (ex: nome do usuário) visíveis | ✅ Sim     |
+| Página carrega sem erros                    | Sim     |
+| Dados sensíveis (ex: nome do usuário) visíveis | Sim     |
 
 - **Conclusão:**  
   A autenticação está funcionando conforme esperado.
@@ -280,7 +280,7 @@ Este teste tem como objetivo verificar se a aplicação web Agromart implementa 
   - Tentei acessar manualmente `http://localhost:3000/dashboard`.
 
 - **Resultado obtido:**  
-  ✅ O sistema redirecionou corretamente para `http://localhost:3000/login`.
+  O sistema redirecionou corretamente para `http://localhost:3000/login`.
 
 - **Verificações adicionais:**
   - Cookies de sessão foram removidos (DevTools → Application → Cookies).
@@ -291,17 +291,17 @@ Este teste tem como objetivo verificar se a aplicação web Agromart implementa 
 
 ---
 
-## 🔍 Tabela Resumo
+## Tabela Resumo
 
 | Cenário de Teste         | Comportamento Esperado    | Resultado Obtido       | Status |
 |--------------------------|----------------------------|-------------------------|--------|
-| Acesso não autenticado   | Redirecionar para `/login` | ✅ Redirecionou         | OK     |
-| Acesso após login        | Carregar página com dados  | ✅ Carregou corretamente | OK     |
-| Acesso após logout       | Redirecionar para `/login` | ✅ Redirecionou         | OK     |
+| Acesso não autenticado   | Redirecionar para `/login` | Redirecionou         | OK     |
+| Acesso após login        | Carregar página com dados  | Carregou corretamente | OK     |
+| Acesso após logout       | Redirecionar para `/login` | Redirecionou         | OK     |
 
 ---
 
-## ⚠️ Observações
+## Observações
 
 - Todos os cenários testados apresentaram os comportamentos de segurança esperados.
 - **Recomendação:**  
@@ -313,7 +313,7 @@ O objetivo deste teste foi validar a experiência do usuário ao interagir com o
 
 ---
 
-## 🔍 Procedimento
+## Procedimento
 
 - Acesso à URL: `http://localhost:3000`
 - Ações realizadas:
@@ -326,19 +326,19 @@ O objetivo deste teste foi validar a experiência do usuário ao interagir com o
 
 ---
 
-## 🔴 Erro Identificado
+## Erro Identificado
 
 - **Título:** Rota `/lojas` não encontrada ou inacessível  
 - **Local:** Navegação após login  
 - **Severidade:** **Alta** (bloqueia funcionalidade crítica)
 
-### 📝 Descrição do Problema
+### Descrição do Problema
 
 Ao tentar acessar a funcionalidade de gerenciamento de lojas por meio da URL `http://localhost:3000/lojas` ou via menu de navegação:
 
-- ❌ O sistema **não redireciona** para a página esperada.
-- ❌ **Nenhum componente** relacionado à lista ou gerenciamento de lojas é renderizado.
-- ❌ **Não há mensagens de erro** ou qualquer feedback visual para o usuário.
+- O sistema **não redireciona** para a página esperada.
+- **Nenhum componente** relacionado à lista ou gerenciamento de lojas é renderizado.
+- **Não há mensagens de erro** ou qualquer feedback visual para o usuário.
 
 ### 🔧 Causa Raiz (Análise Técnica)
 
@@ -347,7 +347,7 @@ Ao revisar o arquivo `index.tsx` responsável pelas rotas da aplicação, foi id
 ```tsx
 // Rotas existentes:
 <Route path="/dashboard" component={Dashboard} isPrivate />
-// ❌ Rota /lojas não está declarada
+// Rota /lojas não está declarada
 ```
 
 ![Tela Principal da Aplicação Após Login](./assets/testes/figura_11.png)
