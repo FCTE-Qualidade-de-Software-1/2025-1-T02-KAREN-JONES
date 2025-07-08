@@ -144,8 +144,17 @@ O feedback visual e a resposta do sistema serão considerados excelentes se amba
 
 No entanto, se uma ou ambas as métricas atingirem o nível Insatisfatório, isso indica que o sistema falha em fornecer feedback adequado para as ações do usuário, levando à confusão ou que as interações não resultam no comportamento esperado.
 
+### Abstraction Sheets
+
+#### Performance
+![Abstraction Sheet de Performance](./assets/GQM_us.jpg)
+
+#### Usabilidade
+![Abstraction Sheet de Usabilidade](./assets/GQM_per.jpeg)
+
 ### Histórico de Versões
 
 | Versão | Data de Produção | Descrição da Alteração | Autor(es) | Revisor(es) | Data de Revisão |
 |:------:|:----------------:|:----------------------:|:---------:|:-----------:|:--------------:|
 | 1.0    | 08/07/2025       |Criação do Documento da Fase 2 |  [Rafael Kenji](https://github.com/rafa-kenji) e [Rafael Matuda](https://github.com/rmatuda) |||
+| 1.0    | 08/07/2025       |Adição do Abstraction Sheet |  [Rafael Kenji](https://github.com/rafa-kenji) e [Rafael Matuda](https://github.com/rmatuda) |||
