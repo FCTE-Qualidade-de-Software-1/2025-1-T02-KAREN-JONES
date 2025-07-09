@@ -340,7 +340,7 @@ Ao tentar acessar a funcionalidade de gerenciamento de lojas por meio da URL `ht
 - **Nenhum componente** relacionado à lista ou gerenciamento de lojas é renderizado.
 - **Não há mensagens de erro** ou qualquer feedback visual para o usuário.
 
-### 🔧 Causa Raiz (Análise Técnica)
+### Causa Raiz (Análise Técnica)
 
 Ao revisar o arquivo `index.tsx` responsável pelas rotas da aplicação, foi identificado que:
 
@@ -354,7 +354,7 @@ Ao revisar o arquivo `index.tsx` responsável pelas rotas da aplicação, foi id
 
 # 5. Testes Automatizados – Backend
 
-## 5.1 Resumo Executivo
+## 5.1 Resumo 
 
 A execução dos testes automatizados do backend resultou em falha total: **44 testes falharam**. Os principais problemas identificados foram:
 
@@ -362,16 +362,47 @@ A execução dos testes automatizados do backend resultou em falha total: **44 t
 - Autenticação não inicializada (`jwt` indefinido).
 - Timeouts em operações assíncronas.
 
----
 
 ## 5.2 Falhas Críticas
 
 ### 5.2.1 Banco de Dados de Teste
 
-- **Erro:**  
-  ```
+Erro: 
+  ```tsx
    database "tobemodified-test" does not exist
   ```
+
+Impacto: Todos os testes que envolvem banco de dados falharam. 
+Causa Raiz:
+  - O banco de dados especificado no ambiente de teste não foi criado.
+  - Configuração do ambiente de teste ausente/incompleta no .env.test.
+
+### 5.2.2 Autenticação (JWT)
+
+Erro: 
+```tsx
+ReferenceError: jwt is not defined
+```
+Impacto: Testes que requerem autenticação falharam (ex: CRUD de lojas, assinantes).
+Causa Raiz:
+  - Token JWT não foi gerado/mockado antes da execução dos testes.
+
+### 5.2.3 Timeouts
+
+Erro: 
+```tsx
+Exceeded timeout of 150000 ms for a hook
+```
+Impacto: Testes de login/registro não concluídos. 
+Causa Raiz:
+  - Operações assíncronas (ex: criação de usuário) mais lentas que o timeout padrão.
+
+
+## 6- Testes Automatizados - front
+
+o Jest não encontrou nenhum teste para executar no projeto
+
+
 
 
 ### Histórico de Versões
@@ -379,5 +410,5 @@ A execução dos testes automatizados do backend resultou em falha total: **44 t
 | Versão | Data de Produção | Descrição da Alteração | Autor(es) | Revisor(es) | Data de Revisão |
 |:------:|:----------------:|:----------------------:|:---------:|:-----------:|:--------------:|
 | 1.0    | 06/07/2025       |Desenvolvimento de Relatorio dos testes |  [Catlen Cleane](https://github.com) |[Mateus Bastos](https://github.com/MateuSansete)| 08/07/2025|
-
+| 1.1    | 08/07/2025       |Correções de relatório de testes |  [Catlen Cleane](https://github.com) |[Mateus Bastos](https://github.com/MateuSansete)| 08/07/2025|
 
