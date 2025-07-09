@@ -410,5 +410,5 @@ o Jest não encontrou nenhum teste para executar no projeto
 | Versão | Data de Produção | Descrição da Alteração | Autor(es) | Revisor(es) | Data de Revisão |
 |:------:|:----------------:|:----------------------:|:---------:|:-----------:|:--------------:|
 | 1.0    | 06/07/2025       |Desenvolvimento de Relatorio dos testes |  [Catlen Cleane](https://github.com) |[Mateus Bastos](https://github.com/MateuSansete)| 08/07/2025|
-| 1.1    | 08/07/2025       |Correções de relatório de testes |  [Catlen Cleane](https://github.com) |[Mateus Bastos](https://github.com/MateuSansete)| 08/07/2025|
+| 1.1    | 08/07/2025       |Correções de relatório de testes |  [Catlen Cleane](https://github.com) |[Mateus Bastos](https://github.com/MateuSansete), [Luiza Maluf](https://github.com/LuizaMaluf)| 08/07/2025|
 

@@ -294,4 +294,4 @@ Com isso, separamos as métricas para a Performance e Usabilidade.
 |:------:|:----------------:|:----------------------:|:---------:|:-----------:|:--------------:|
 | 1.0    | 08/07/2025       |Criação do Documento da Fase 2 |  [Rafael Kenji](https://github.com/rafa-kenji) e [Rafael Matuda](https://github.com/rmatuda) |[Mateus Bastos](https://github.com/MateuSansete)| 07/07/2025|
 | 1.1    | 08/07/2025       |Adição do Abstraction Sheet |  [Rafael Kenji](https://github.com/rafa-kenji) e [Rafael Matuda](https://github.com/rmatuda) |[Mateus Bastos](https://github.com/MateuSansete)| 07/07/2025|
-| 1.2    | 08/07/2025       |Reestruturação das tabelas |  [Mateus Bastos](https://github.com/MateuSansete)| [Rafael Matuda](https://github.com/rmatuda)| 08/07/2025|
+| 1.2    | 08/07/2025       |Reestruturação das tabelas |  [Mateus Bastos](https://github.com/MateuSansete)| [Rafael Matuda](https://github.com/rmatuda), [Luiza Maluf](https://github.com/LuizaMaluf)| 08/07/2025|
