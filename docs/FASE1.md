@@ -141,7 +141,7 @@ Este plano estabelece os fundamentos conceituais e contextuais para a avaliaçã
 
 | Versão | Data de Produção | Descrição da Alteração | Autor(es) | Revisor(es) | Data de Revisão |
 |:------:|:----------------:|:----------------------:|:---------:|:-----------:|:--------------:|
-| 1.0    | 06/07/2025       |Desenvolvimento de Relatorio de análise de desempenho |  [Mateus Bastos](https://github.com/MateuSansete) |[Rafael Kenji](https://github.com/rafa-kenji)| 08/07/2025|
+| 1.0    | 06/07/2025       |Desenvolvimento de Relatorio de análise de desempenho |  [Mateus Bastos](https://github.com/MateuSansete) |[Rafael Kenji](https://github.com/rafa-kenji), [Luiza Maluf](https://github.com/LuizaMaluf) | 08/07/2025|
 
 
 

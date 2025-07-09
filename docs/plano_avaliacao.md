@@ -85,4 +85,4 @@
 | Versão | Descrição | Responsável | Revisor | Data de Revisão |
 |--------|-----------|-------------|---------|-----------------|
 | `1.0`  | Documentação do planejamento | [Luiza Maluf](https://github.com/LuizaMaluf) | [Mateus Bastos](https://github.com/MateuSansete)| 08/07/2025|
-| `1.1`  | Atualização do planejamento | [Rafael Kenji](https://github.com/rafa-kenji) | [Mateus Bastos](https://github.com/MateuSansete)| 08/07/2025|
+| `1.1`  | Atualização do planejamento | [Rafael Kenji](https://github.com/rafa-kenji) | [Mateus Bastos](https://github.com/MateuSansete), [Luiza Maluf](https://github.com/LuizaMaluf)| 08/07/2025|

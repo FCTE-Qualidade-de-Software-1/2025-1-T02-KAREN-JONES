@@ -87,8 +87,34 @@
 | Validação de Senha           | Teste de regra      | ✅ Aceito      | Baixa      | -                                               |
 | Campo Novas Notificações     | Teste funcional     | ❌ Não Aceito  | Alta       | Corrigir erro 405 na ação                       |
 
+## Proposta de melhoria - Prototipagem
+
+Diante dos tópicos que não passaram pelos critérios de aceitação, propomos melhorias que podem ser vistas nos frames a seguir:
+
+### Link de Recuperação de Senha
+
+Ao usuário clicar em "Esqueci senha" na página de login, ele será redirecionado a esse página.
+
+![](assets/prototipo/esqueci_senha.png)
+
+### Botão de Logout
+
+Propomos um visual mais intuitivo para o usuário poder realizar o logout.
+
+![](assets/prototipo/botao_logout.png)
+
+### Botão de notificação
+
+Propomos uma tela com as notificações reunidas e sendo possível a abertura de visualização de uma notificação.
+
+![](assets/prototipo/notificacao.png)
+
+---
+
+
 ### Histórico de Versões
 
 | Versão | Data de Produção | Descrição da Alteração | Autor(es) | Revisor(es) | Data de Revisão |
 |:------:|:----------------:|:----------------------:|:---------:|:-----------:|:--------------:|
-| 1.0    | 06/07/2025       |Desenvolvimento de Relatorio da Usabilidade |  [Rafael Kenji](https://github.com/rafa-kenji) |[Mateus Bastos](https://github.com/MateuSansete), [Rafael Kenji](https://github.com/rafa-kenji)| 08/07/2025|
+| 1.0    | 06/07/2025       |Desenvolvimento de Relatorio da Usabilidade |  [Rafael Kenji](https://github.com/rafa-kenji) |[Mateus Bastos](https://github.com/MateuSansete), [Rafael Kenji](https://github.com/rafa-kenji), [Luiza Maluf](https://github.com/LuizaMaluf)| 08/07/2025|
+| 1.1 | 08/07/2025 | Desenvolvimento da proposta de melhoria e registro dos portótipos | [Luiza Maluf]()| [Rafael Kenji](https://github.com/rafa-kenji)| 08/07/2025|
